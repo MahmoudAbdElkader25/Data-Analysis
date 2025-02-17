@@ -7,7 +7,7 @@ This project presents an interactive HR Analytics Dashboard created using **Tabl
 
 Below is a screenshot of the HR Analytics Dashboard:
 
-![HR Analytics Dashboard](.https://github.com/MahmoudAbdElkader25/Data-Analysis/blob/main/Tableau%20%5BProjects%5D/HR%20Analytics%20Dashboard/Screens/HR%20Dashboard.jpg?raw=true)
+![HR Analytics Dashboard](https://github.com/MahmoudAbdElkader25/Data-Analysis/blob/main/Tableau%20%5BProjects%5D/HR%20Analytics%20Dashboard/Screens/HR%20Dashboard.jpg?raw=true)
 
 ## Project Overview
 
