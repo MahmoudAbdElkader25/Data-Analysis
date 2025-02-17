@@ -20,7 +20,7 @@ The Customer Dashboard project provides a comprehensive overview of customer int
 
 - **Data Visualization: Tableau was used to create this dashboard and its visualizations from start to finish.
 - **Data Source: The data was stored in an Excel file containing customer orders and sales data.
-- 
+
 ## Getting Started  
 
 ### Prerequisites  
