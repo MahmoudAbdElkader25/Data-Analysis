@@ -42,8 +42,6 @@ Open the project in your chosen data visualization tool and connect to the datas
    1.Fork the repository.
    2.Make your changes in a new branch.
    3.Submit a pull request detailing your changes.
-### Contact
-For inquiries or support, please contact:
+### Developed By
 
-Name: Mahmoud Abd Elkader
-LinkedIn: linkedin.com/in/mahmoud-abd-el-kader-66a6a8308
+Eng: Mahmoud Abd Elkader
