@@ -105,7 +105,3 @@ For inquiries or support, please contact:
 
 Name: Mahmoud Abd Elkader
 LinkedIn: linkedin.com/in/mahmoud-abd-el-kader-66a6a8308
-
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/customer-dashboard.git
