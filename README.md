@@ -1,4 +1,4 @@
-## Data Analysis Projects Repository
+# Data Analysis Projects Repository
 The **Data Analysis** repository showcases a variety of projects utilizing different tools and techniques to analyze, visualize, and interpret data. Below is a summary of the covered fields and key skills applied:
 
 ### **Power BI Projects:**
