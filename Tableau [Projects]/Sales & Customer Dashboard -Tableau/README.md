@@ -10,12 +10,8 @@ The Customer Dashboard project provides a comprehensive overview of customer int
 - **Total Sales Per Customer**: Shows average sales per customer, highlighting growth compared to the previous year.  
 - **Total Orders**: Presents the total number of orders placed in 2023, contrasted with the prior year.  
 - **Customer Distribution by Number of Orders**: Visualizes the distribution of customers based on their order quantities.  
-- **Top 10 Customers by Profit**: Lists the top customers, their last orders, profit generated, total sales, and number of orders.  
-
-## Screenshot  
-
-https://github.com/MahmoudAbdElkader25/Data-Analysis/blob/main/Tableau%20%5BProjects%5D/Sales%20&%20Customer%20Dashboard%20-Tableau/Screens/Sales%20and%20Customer.jpg?raw=true  
-
+- **Top 10 Customers by Profit**: Lists the top customers, their last orders, profit generated, total sales, and number of orders.
+- 
 ## Technologies Used  
 
 - **Data Visualization**: Tools such as Tableau, Power BI, or similar were utilized to create the dashboard.  
