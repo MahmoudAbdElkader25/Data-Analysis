@@ -14,7 +14,7 @@ The Customer Dashboard project provides a comprehensive overview of customer int
 
 ## Screenshot  
 
-![Customer Dashboard Screenshot](path/to/your/screenshot.png)  
+https://github.com/MahmoudAbdElkader25/Data-Analysis/blob/main/Tableau%20%5BProjects%5D/Sales%20&%20Customer%20Dashboard%20-Tableau/Screens/Sales%20and%20Customer.jpg?raw=true  
 
 ## Technologies Used  
 
