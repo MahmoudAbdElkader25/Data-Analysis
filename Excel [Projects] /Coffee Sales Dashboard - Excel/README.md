@@ -14,8 +14,7 @@ The **Coffee Sales Dashboard** provides a comprehensive analysis of coffee sales
   - Loyalty Card Status (Yes/No)
 
 ## Tools & Technologies Used
-- **Power BI** for data visualization and reporting
-- **Excel/Python (if applicable)** for data preprocessing
+- **Excel** for data preprocessing and Visualization
 - **GitHub** for version control and project sharing
 
 ## Installation & Usage
