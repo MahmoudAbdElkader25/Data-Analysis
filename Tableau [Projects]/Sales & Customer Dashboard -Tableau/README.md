@@ -18,10 +18,9 @@ The Customer Dashboard project provides a comprehensive overview of customer int
 
 ## Technologies Used  
 
-- **Data Visualization**: Tools such as Tableau, Power BI, or similar were utilized to create the dashboard.  
-- **Data Source**: Data is pulled from a relational database or CSV files containing customer orders and sales data.  
-- **Languages/Frameworks**: HTML, CSS, JavaScript (for web-based dashboards), or specific libraries/frameworks used in preferred visualization tools.  
-
+- **Data Visualization: Tableau was used to create this dashboard and its visualizations from start to finish.
+- **Data Source: The data was stored in an Excel file containing customer orders and sales data.
+- 
 ## Getting Started  
 
 ### Prerequisites  
