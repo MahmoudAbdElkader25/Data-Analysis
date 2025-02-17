@@ -38,7 +38,8 @@ The dataset includes:
 - Country-wise Sales Distribution
 
 ## Screenshot
-![Coffee Sales Dashboard](Dashboard.jpg)
+![Coffee Sales Dashboard]
+(https://github.com/MahmoudAbdElkader25/Data-Analysis/blob/main/Excel%20%5BProjects%5D%20/Coffee%20Sales%20Dashboard%20-%20Excel/Screens/Dashboard.jpg?raw=true)
 
 ## Future Enhancements
 - Implement predictive analytics for sales forecasting.
