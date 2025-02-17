@@ -16,7 +16,7 @@ A Power BI-powered call center analysis dashboard designed to visualize and moni
 
 ## Screenshot
 
-![Call Center Analysis Dashboard](12.jpg)  
+![Call Center Analysis Dashboard](https://github.com/MahmoudAbdElkader25/Data-Analysis/blob/main/Power%20Bi%20%5BProjects%5D/Call%20Center%20Analysis/Screens/Call%20Center%20Analysis.jpg?raw=true)  
 *Screenshot of the Call Center Analysis Dashboard*
 
 ## Installation
